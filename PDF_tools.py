@@ -1,13 +1,6 @@
-# =========================================================================== #
-# Program: In this application to split and merge pdf files. The application
-#          will allow the user to merge two pdf files together and create a
-#          third file or extract individual pages from a pdf file.
-# Author:  Ibrahim Mohamed Saad Mohamed ............... 20230003
-#          Ahmed Hussein Mohamed Ahmed  ............... 20230016
-#          Ezzeldin Omar Abdellatif Awd ............... 20230233
-# Date:    1/3/2024
-# Version: 1.0
-# =========================================================================== #
+# QNQ
+# EZZ
+# HZRD
 
 import PyPDF2
 import os
